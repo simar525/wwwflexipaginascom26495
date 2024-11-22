@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://flexipaginas.flexipaginas.net/$1"
+ }
+  ]
+}
